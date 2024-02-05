@@ -1,0 +1,67 @@
+
+
+body {
+background: color #101010;;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #444;
+    padding: 0.5em 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0 15px;
+}
+
+section {
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+.about-us {
+    text-align: justify;
+}
+
+.contact-us {
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#content {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+img {
+    margin: 20px;
+}
+
+#pictures {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
